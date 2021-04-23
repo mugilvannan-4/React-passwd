@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-passwd/static/css/main.6b4aa7f1.chunk.css",
+    "main.css": "/React-passwd/static/css/main.121ff631.chunk.css",
     "main.js": "/React-passwd/static/js/main.c13be835.chunk.js",
     "main.js.map": "/React-passwd/static/js/main.c13be835.chunk.js.map",
     "runtime-main.js": "/React-passwd/static/js/runtime-main.0b976ce6.js",
@@ -8,14 +8,14 @@
     "static/js/2.b54e1356.chunk.js": "/React-passwd/static/js/2.b54e1356.chunk.js",
     "static/js/2.b54e1356.chunk.js.map": "/React-passwd/static/js/2.b54e1356.chunk.js.map",
     "index.html": "/React-passwd/index.html",
-    "static/css/main.6b4aa7f1.chunk.css.map": "/React-passwd/static/css/main.6b4aa7f1.chunk.css.map",
+    "static/css/main.121ff631.chunk.css.map": "/React-passwd/static/css/main.121ff631.chunk.css.map",
     "static/js/2.b54e1356.chunk.js.LICENSE.txt": "/React-passwd/static/js/2.b54e1356.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-passwd/static/media/security-logo.5323318c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b976ce6.js",
     "static/js/2.b54e1356.chunk.js",
-    "static/css/main.6b4aa7f1.chunk.css",
+    "static/css/main.121ff631.chunk.css",
     "static/js/main.c13be835.chunk.js"
   ]
 }
